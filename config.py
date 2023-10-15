@@ -3,20 +3,20 @@
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "AIZER X VIRUS X SAURAV",
-            "The Fucking Kimd Here",
-            "HACKING R1DERS",
-            "AIZER X VIRUS X SAURAV BAP HAI"
+            "DEXTER RUNS CORD ",
+            "FUCKED BY DEXTER JIJA",
+            "DEXTER HU BKL",
+            "DEXTER ON TOP"
         ],
         "roles_name": [
-            "wizzed by Aizer x vairus x saurav",
-            "Hacking Raiders",
-            "Aizer x virus x saurav Papa Here"
+            "DEXTER HU BKL",
+            "DEXTER ON TOP",
+            "Dexter Papa Here"
         ],
         "messages_content": [
-            "@everyone @here **Aizer x Virus x Saurav Papa Aye The** https://discord.gg/hackersop",
-            "@everyone @here **Aizer x Virus x Saurav Papa Aye The** https://discord.gg/hackersop",
-            "@everyone @here **Aizer x Virus x Saurav Papa Aye The** https://discord.gg/hackersop"
+            "@everyone @here **Dexter  Papa Aye The** https://discord.gg/mrontop",
+            "@everyone @here **Dexter  Papa Aye The** https://discord.gg/mrontop",
+            "@everyone @here **Dexter papa Aye The** https://discord.gg/mrontop"
         ]
     }
 }
